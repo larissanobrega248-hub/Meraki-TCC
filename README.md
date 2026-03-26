@@ -1,6 +1,8 @@
 # Projeto Meraki
 Repositório TCC - Larissa Nóbrega e Nicoly Farias
 
+<img src="Palavra _meraki_ em amarelo pastel.png" height="200">
+
 O conceito do **Meraki** baseia-se em fazer algo com a alma, criatividade e amor. O projeto foi desenvolvido com uma identidade visual acolhedora.
 
 - **Paleta de Cores Principais:**
