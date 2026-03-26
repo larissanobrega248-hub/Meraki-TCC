@@ -1,9 +1,10 @@
 # Projeto Meraki
 Repositório TCC - Larissa Nóbrega e Nicoly Farias
 
-<img src="Palavra _meraki_ em amarelo pastel.png" height="200">
-
 O conceito do **Meraki** baseia-se em fazer algo com a alma, criatividade e amor. O projeto foi desenvolvido com uma identidade visual acolhedora.
+<div align="center">
+  <img src="Palavra _meraki_ em amarelo pastel.png" width="300">
+</div>
 
 - **Paleta de Cores Principais:**
     - **Amarelo Claro:** Representa energia, otimismo e alegria. É a cor de destaque no logotipo, evocando a luz e o entusiasmo do lazer.
