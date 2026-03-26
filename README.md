@@ -3,7 +3,7 @@ Repositório TCC - Larissa Nóbrega e Nicoly Farias
 
 O conceito do **Meraki** vem do grego que significa fazer algo com a alma, criatividade ou amor. É colocar a "essência de si mesmo" e dedicação em tudo o que se faz, deixando um pedaço de sua alma em cada detalhe, seja trabalho, arte ou tarefas cotidianas.  
 <div align="center">
-  <img src="Palavra _meraki_ em amarelo pastel.png" width="300">
+  <img src="Palavra _meraki_ em amarelo pastel (3).png" width="300">
 </div>
 
 - **Paleta de Cores Principais:**
