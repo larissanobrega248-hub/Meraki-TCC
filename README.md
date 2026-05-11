@@ -64,7 +64,7 @@ Os espaços serão organizados em quatro categorias:
 ## 6. Documentação
  
 - [Guia de estilos](./Guia%20de%20estilos.pdf)
-- [Requisitos do Sistema](./Documento de Requisitos - Larissa Nóbrega e Nicoly Farias INFO4.docx (1).pdf) 
+- [Requisitos do Sistema](./) 
 - [ Pré-Projeto](./Pr%C3%A9-Projeto.pdf)
 - [Protótipo Navegavel](https://www.figma.com/make/5rIs4jvYUe5VYV3RgTDckQ/Naveg%C3%A1vel-App-Prototype?fullscreen=1) 
  
