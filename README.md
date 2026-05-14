@@ -42,8 +42,8 @@ Os espaços serão organizados em quatro categorias:
  
 | Membro | Responsabilidades |
 | :--- | :--- |
-| **Larissa Nóbrega** | Desenvolvimento de funcionalidades, integração com banco de dados e documentação técnica. |
-| **Nicoly Farias** | Design de interfaces, estruturação de layout e experiência do usuário. |
+| **Larissa Nóbrega** | Desenvolvimento Back-End e documentação técnica. |
+| **Nicoly Farias** |Desenvolvimento Front-End e documentação técnica. |
  
 ---
  
@@ -63,10 +63,10 @@ Os espaços serão organizados em quatro categorias:
  
 ## 6. Documentação
  
-- [Guia de estilos](./Guia%20de%20estilos.pdf)
+- [Guia de estilos](./)
 - [Requisitos do Sistema](./) 
-- [ Pré-Projeto](./Pr%C3%A9-Projeto.pdf)
-- [Protótipo Navegavel](https://www.figma.com/make/5rIs4jvYUe5VYV3RgTDckQ/Naveg%C3%A1vel-App-Prototype?fullscreen=1) 
+- [ Pré-Projeto](./)
+- [Protótipo Navegavel]() 
  
 ---
  
