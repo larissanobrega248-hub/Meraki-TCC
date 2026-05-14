@@ -1,4 +1,4 @@
-# Meraki - Portal de Espaços de Lazer Infantil
+# Meraki - Portal de Espaços Educacionais e de Lazer Infantil
  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -15,9 +15,9 @@
  
 ## 1. Identificação
  
-O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços públicos e privados de lazer infantil no município de **Pinhais/PR**. O nome vem do grego e significa fazer algo com alma, criatividade e amor — colocar a essência de si mesmo em cada detalhe.
+O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços públicos e privados de lazer infantil no município de **Pinhais/PR**. O nome vem do grego e significa fazer algo com alma, criatividade e amor, colocar a essência de si mesmo em cada detalhe.
  
-> O projeto é o Trabalho de Conclusão de Curso (TCC) do curso Técnico em Informática Integrado ao Ensino Médio do **Instituto Federal do Paraná – Câmpus Pinhais**.
+> Trabalho de Conclusão de Curso do curso Técnico em Informática.
 > **Orientador:** Prof. Me. Alexandre Peres Arias
 > **Coorientadora:** Profa. Dra. Mariana Ciminelli Maranho
  
@@ -25,7 +25,7 @@ O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços pú
  
 ## 2. Objetivo
  
-Desenvolver um sistema web responsivo capaz de **reunir, organizar e disponibilizar informações** sobre espaços de lazer infantil em Pinhais/PR, incentivando crianças a participarem de atividades presenciais e reduzindo o sedentarismo digital.
+Desenvolver um sistema web capaz de **reunir, organizar e disponibilizar informações** sobre espaços de lazer infantil em Pinhais/PR, incentivando crianças a participarem de atividades presenciais e reduzindo o sedentarismo digital.
  
 Os espaços serão organizados em quatro categorias:
  
