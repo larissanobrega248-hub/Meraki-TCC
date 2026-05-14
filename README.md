@@ -71,5 +71,5 @@ Os espaços serão organizados em quatro categorias:
 ---
  
 <div align="center">
-  Feito com Larissa Nóbrega e Nicoly Farias — IFPR Câmpus Pinhais, 2026
+  Feito por Larissa Nóbrega e Nicoly Farias — IFPR Câmpus Pinhais, 2026
 </div>
