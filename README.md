@@ -63,10 +63,10 @@ Os espaços serão organizados em quatro categorias:
  
 ## 6. Documentação
  
-- [Guia de estilos](./)
-- [Requisitos do Sistema](./) 
-- [ Pré-Projeto](./)
-- [Protótipo Navegavel]() 
+- [Guia de estilos](./Paleta%20de%20Cores%20(2)%20(1).png)
+- [Requisitos do Sistema](./Documento%20de%20Requisitos%20-%20Laris...)
+- [Pré-Projeto](./Meraki.docx.pdf)
+- [Protótipo Navegável](./Protótipo%20navegável.docx)
  
 ---
  
