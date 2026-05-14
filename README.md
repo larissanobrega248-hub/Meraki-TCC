@@ -66,7 +66,7 @@ Os espaços serão organizados em quatro categorias:
 - [Guia de estilos](./Paleta%20de%20Cores%20(2)%20(1).png)
 - [Requisitos do Sistema](./Documento%20de%20Requisitos%20-%20Laris...)
 - [Pré-Projeto](./Meraki.docx.pdf)
-- [Protótipo Navegável](./https://www.figma.com/proto/g9J4QflhBLjq3fJeYrUF97/Meraki-TCC?node-id=3316-606&t=XvAQRafuaF2wiuGj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3316%3A606)
+- [Protótipo Navegável](https://www.figma.com/proto/g9J4QflhBLjq3fJeYrUF97/Meraki-TCC?node-id=3316-606&t=XvAQRafuaF2wiuGj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3316%3A606)
  
 ---
  
