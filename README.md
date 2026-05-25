@@ -53,7 +53,7 @@ Os espaços serão organizados em quatro categorias:
 |-----|-----|
 | **Amarelo Claro** | Cor de destaque — representa energia, otimismo e alegria |
 | **Roxo** | Uma cor que estimula a criatividade e a imaginação|
-- [Paleta de Cores](./Nova%paleta%de%cores.pdf)
+- [Paleta de Cores](./Paleta%20de%20Cores%20(2)%20(1).png)
 
 ---
 ## 5. Início do Projeto
