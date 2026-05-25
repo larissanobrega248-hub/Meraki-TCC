@@ -52,7 +52,8 @@ Os espaços serão organizados em quatro categorias:
 | Cor | Uso |
 |-----|-----|
 | **Amarelo Claro** | Cor de destaque — representa energia, otimismo e alegria |
-| **Violeta Claro** | Suaviza contrastes e cria uma atmosfera acolhedora e criativa |
+| **Roxo** | Uma cor que estimula a criatividade e a imaginação|
+- [Paleta de Cores](./Nova%paleta%de%cores.pdf)
 
 ---
 ## 5. Início do Projeto
