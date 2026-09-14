@@ -18,8 +18,8 @@
 O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços públicos e privados de lazer infantil no município de **Pinhais/PR**. O nome vem do grego e significa fazer algo com alma, criatividade e amor, colocar a essência de si mesmo em cada detalhe.
  
 > Trabalho de Conclusão de Curso do curso Técnico em Informática.
-> **Orientador:** Prof. Me. Alexandre Peres Arias
-> **Coorientadora:** Profa. Dra. Mariana Ciminelli Maranho
+> **Orientador:** Prof. Dr. Eduardo Tieppo
+> **Orientadora:** Profa. Dra. Mariana Ciminelli Maranho
  
 ---
  
