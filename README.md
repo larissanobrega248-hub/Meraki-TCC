@@ -7,12 +7,6 @@
  
 ---
  
-<div align="center">
-  <img src="Palavra _meraki_ em amarelo pastel (3).png" width="300">
-</div>
-
- --- 
- 
 ## 1. Identificação
  
 O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços públicos e privados de lazer infantil no município de **Pinhais/PR**. O nome vem do grego e significa fazer algo com alma, criatividade e amor, colocar a essência de si mesmo em cada detalhe.
