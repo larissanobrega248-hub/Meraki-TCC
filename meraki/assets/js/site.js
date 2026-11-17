@@ -225,7 +225,13 @@ function iniciarLocal() {
             var acessibilidade = local.acessibilidade ? escaparLocal(local.acessibilidade) : 'Não há informações sobre a acessibilidade';
             var faixasEtarias = local.faixas_etarias.length ? local.faixas_etarias.map(escaparLocal).join(', ') : 'Não há informações sobre a faixa etária';
             var valorPagamento = local.forma_pagamento ? escaparLocal(local.forma_pagamento) : 'Não há informações sobre a forma de pagamento';
-            var site = local.link_contato ? '<a href="' + escaparLocal(local.link_contato) + '" target="_blank" rel="noopener noreferrer">' + escaparLocal(local.link_contato) + '</a>' : 'Não há informações sobre o site';
+            function validarLink(url) {
+                if (url.startsWith('https://') || url.startsWith('http://')) {
+                    return url;
+                }
+
+                return null;
+            }
             var telefone = local.telefone ? '<a href="tel:' + escaparLocal(local.telefone) + '">' + escaparLocal(local.telefone) + '</a>' : 'Não há informações sobre o telefone';
             var linkMapa = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(local.endereco);
 
