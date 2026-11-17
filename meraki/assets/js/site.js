@@ -172,7 +172,7 @@ function iniciarFavoritos() {
             })
             .then(function (dados) {
                 botao.classList.toggle('ativo', dados.favorito);
-                botao.innerHTML = dados.favorito ? '&#9829' : '&#9825;';
+                botao.textContent = dados.favorito ? '&#9829' : '&#9825;';
                 botao.setAttribute('aria-label', dados.favorito ? 'Remover dos favoritos' : 'Adicionar aos favoritos');
 
                 if (window.location.pathname.indexOf('favoritos.php') !== -1 && !dados.favorito) {
