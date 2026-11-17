@@ -44,7 +44,7 @@ Os espaços serão organizados em cinco interesses de lazer:
  
 | Cor | Uso |
 |-----|-----|
-| **Amarelo Claro** | Cor de destaque — representa energia, otimismo e alegria |
+| **Amarelo Claro** | Representa energia, otimismo e alegria |
 | **Roxo** | Uma cor que estimula a criatividade e a imaginação|
 - [Paleta de Cores](https://github.com/larissanobrega248-hub/Meraki-TCC/blob/main/Paletacores.pdf)
   
