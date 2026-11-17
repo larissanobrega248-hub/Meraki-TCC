@@ -2,7 +2,7 @@
 
 $_DB['server'] = 'localhost'; 				
 $_DB['user'] = 'root';       				
-$_DB['password'] = '1234';     	    		
+$_DB['password'] = 'senha';     	    		
 $_DB['database'] = 'meraki';
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); 
