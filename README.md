@@ -39,17 +39,8 @@ Os espaços serão organizados em cinco interesses de lazer:
 | **Sociais** | Convivência, encontros e interação |
  
 ---
- 
-## 3. Organização da Equipe
- 
-| Membro | Responsabilidades |
-| :--- | :--- |
-| **Larissa Nóbrega** | Desenvolvimento Back-End e documentação técnica. |
-| **Nicoly Farias** |Desenvolvimento Front-End e documentação técnica. |
- 
----
- 
-## 4. Paleta de Cores
+
+## 3. Paleta de Cores
  
 | Cor | Uso |
 |-----|-----|
@@ -58,13 +49,13 @@ Os espaços serão organizados em cinco interesses de lazer:
 - [Paleta de Cores](https://github.com/larissanobrega248-hub/Meraki-TCC/blob/main/Paletacores.pdf)
   
 ---
-## 5. Início do Projeto
+## 4. Início do Projeto
  
 - Outubro de 2025
 
 ---
  
-## 6. Documentação
+## 5. Documentação
  
 - [Texto final]()
 - [Site disponível](https://merakipinhais.site.je/)
