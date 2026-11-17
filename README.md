@@ -65,8 +65,8 @@ Os espaços serão organizados em quatro categorias:
  
 - [Requisitos do Sistema](./Documento%20de%20Requisitos.pdf)
 - [Pré-Projeto](./Meraki.docx.pdf)
-- [Protótipo Navegável](https://www.figma.com/proto/g9J4QflhBLjq3fJeYrUF97/Meraki-TCC?node-id=3316-606&t=XvAQRafuaF2wiuGj-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3316%3A606)
- 
+- [Site disponível](https://merakipinhais.site.je/)
+   
 ---
  
 <div align="center">
