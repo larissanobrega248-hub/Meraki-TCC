@@ -6,6 +6,11 @@
 ![WAMP](https://img.shields.io/badge/WAMP-FF6600?logo=apache&logoColor=white)
  
 ---
+<p align="center">
+  <img src="./logomeraki.png" alt="Logo" width="300">
+</p>
+
+---
  
 ## 1. Identificação
  
