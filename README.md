@@ -28,7 +28,7 @@ O **Meraki** é um portal web voltado ao cadastro e divulgação de espaços pú
  
 Desenvolver um sistema web capaz de **reunir, organizar e disponibilizar informações** sobre espaços de lazer infantil em Pinhais/PR, incentivando crianças a participarem de atividades presenciais e reduzindo o sedentarismo digital.
  
-Os espaços serão organizados em quatro categorias:
+Os espaços serão organizados em cinco interesses de lazer:
  
 | Categoria | Descrição |
 |-----------|-----------|
