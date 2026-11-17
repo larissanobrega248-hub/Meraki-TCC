@@ -4,7 +4,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-FF6600?logo=apache&logoColor=white)
- 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-005571?logo=ajax&logoColor=white)
+
 ---
 <p align="center">
   <img src="./logomeraki.png" alt="Logo" width="300">
@@ -30,10 +32,11 @@ Os espaços serão organizados em quatro categorias:
  
 | Categoria | Descrição |
 |-----------|-----------|
-| Natureza | Espaços públicos de lazer ao ar livre |
-| Cultura | Museus, bibliotecas e teatros |
-| Esporte | Ginásios e quadras esportivas |
-| Escotismo | Sedes escoteiras |
+| **Físicas** | Movimento, brincadeiras e esportes |
+| **Artísticas** | Música, dança, teatro e pintura |
+| **Intelectuais** | Leitura e aprendizagem |
+| **Manuais** | Jardinagem, artesanato e culinária |
+| **Sociais** | Convivência, encontros e interação |
  
 ---
  
@@ -63,8 +66,7 @@ Os espaços serão organizados em quatro categorias:
  
 ## 6. Documentação
  
-- [Requisitos do Sistema](./Documento%20de%20Requisitos.pdf)
-- [Pré-Projeto](./Meraki.docx.pdf)
+- [Texto final]()
 - [Site disponível](https://merakipinhais.site.je/)
    
 ---
