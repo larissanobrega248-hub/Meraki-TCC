@@ -5,7 +5,7 @@ require dirname(__DIR__) . '/config.php';
 
 $id_espaco = filter_input(INPUT_GET, 'id', FILTER_VALIDATE_INT);
 
-if (!$id_espaco || $id_espaco < 1) {
+if ($id_espaco === false || $id_espaco < 1) {
     http_response_code(400);
     echo json_encode(
         array('erro' => 'Informe um ID de local válido no parâmetro "id".'),
